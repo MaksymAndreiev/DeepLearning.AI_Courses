@@ -5,7 +5,7 @@
 # ============
 *.m             text diff=matlab
 *.mu            text diff=matlab
-* .mlx          text diff=matlab
+*.mlx          text diff=matlab
 
 # Caution: *.m also matches Mathematica packages.
 
